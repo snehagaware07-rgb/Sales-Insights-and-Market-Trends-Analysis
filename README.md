@@ -59,3 +59,7 @@ Online sales channels generated higher average order values compared to retail.
 Seasonal peaks in Q3 highlight promotional campaign effectiveness.
 
 Underperforming regions with low profit margins suggest a need for focused marketing initiatives.
+Contact
+
+📧 Email: snehagaware07@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/sneha-gaware
