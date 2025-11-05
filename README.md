@@ -20,17 +20,17 @@ Advanced Analysis: PivotTables, PivotCharts, Trend Lines, Sparklines
 
 **❓ Business Questions Answered**
 
-Which region or country generated the highest sales revenue?
+1.Which region or country generated the highest sales revenue?
 
-Which product line contributed most to total profit?
+2.Which product line contributed most to total profit?
 
-What are the monthly and quarterly sales trends?
+3.What are the monthly and quarterly sales trends?
 
-How do different sales channels perform comparatively?
+4.How do different sales channels perform comparatively?
 
-What is the average order value (AOV) and profit margin by region?
+5.What is the average order value (AOV) and profit margin by region?
 
-Which products or regions show declining trends that require strategic attention?
+6.Which products or regions show declining trends that require strategic attention?
 
 **✍🏻 Filters & KPIs Used**
 
